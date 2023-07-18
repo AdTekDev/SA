@@ -6,3 +6,8 @@
 ## Communication
 - https://t.me/+plfaN2irq7g2ZTI9
 - https://t.me/+dQerG12v3UZjNmU9 
+
+## Books
+- https://github.com/PacktPublishing/Enterprise-Application-Architecture-with-NET-Core
+
+  
