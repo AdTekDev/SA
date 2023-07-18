@@ -10,4 +10,12 @@
 ## Books
 - https://github.com/PacktPublishing/Enterprise-Application-Architecture-with-NET-Core
 
+## Tools
+  - VS Code - https://code.visualstudio.com/download
+  - .Net core - https://dotnet.microsoft.com/en-us/download
+  - https://staruml.io/download 
+
+
+## REFs
+- https://refactoring.guru/design-patterns/
   
