@@ -12,7 +12,9 @@ Parallel.For(0, M,
         int iStart, iEnd, j;
         iStart = i * nTasks;
         iEnd = (i+1) * nTasks-1;
+        //... code here
         sumTotal += arrNum[i]; //BUG Here !!!
+        //...
     });
 
 Console.WriteLine(sumTotal);
