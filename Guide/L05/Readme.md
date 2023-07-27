@@ -16,7 +16,7 @@
 ## Notes
 
 1. Phân rã Tasks
-2. Phân chia Tasks (mapping / distribute / reduce) tới các PC/Process/Threads
+2. Phân chia Tasks (mapping / distribute / mapreduce) tới các PC/Process/Threads
 3. Thực thi tính toán cho từng Process/Threads
 4. Thu hồi kết quả (gathering) từ các Process/Threads
 5. Tổng hợp kết quả
