@@ -13,10 +13,10 @@
 
 
 ## Patterns
-- Singleton (CP)
-- Factory Method (CP)
-- Adapter / Composite / Facade (SP)
-- Iterator / State (BP)
+- Singleton ( CP )  
+- Factory Method ( CP )  
+- Adapter / Composite / Facade ( SP )  
+- Iterator / State ( BP )  
   
 Skeleton (program - class)
 
