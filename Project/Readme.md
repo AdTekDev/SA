@@ -1,6 +1,8 @@
 
 # Project
 
+- Submit:  PPTx, Project Code (zip file), Guide / Manual (install, libraries, command) 
+
 ## Functions
 - Login
 - Managing Users
