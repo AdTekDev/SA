@@ -1,7 +1,7 @@
 
 # Project
 
-- Submit:  PPTx, Project Code (zip file), Guide / Manual (install, libraries, command) 
+- Submit:  PPTx, Project Code (zip file), Guide / Manual (tools, install, libraries, command, build, run) 
 
 ## Functions
 - Login
