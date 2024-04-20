@@ -15,3 +15,19 @@
 04.02. Longest increasing subsequence (LIS)
 
 04.03. Given an array of integers, find the length of the longest sub-sequence such that elements in the subsequence are consecutive integers, the consecutive numbers can be in any order.
+
+## W05. Layer - Tier Architecture
+
+### W05.A P - field validation 
+- https://regexr.com/
+  
+05.A01.  RegEx   
+- https://regex.sketchengine.eu/basic-exercises.html  (Exercise 1-10)  
+- https://regex.sketchengine.eu/advanced-exercises.html (Exercise 11-20)  
+
+05.A02.  RegEx (code c#) verify 
+- email
+- id number (CCCD)
+- vn fullname
+
+
