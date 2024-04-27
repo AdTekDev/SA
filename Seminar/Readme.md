@@ -2,7 +2,8 @@
 # Topics
 
 - Books: https://drive.google.com/drive/folders/1-K5Tf2YWbrms2kuPxbvRL4onJItFGBwn
-- Submit:  PPTx, Code (zip file), Guide / Manual (install, libraries, command) 
+- Submit:  PPTx, Code (zip file), Guide / Manual (install, libraries, command)
+- Deadline: week 8
   
 ## C#
 - CS01. Messaging (C1. Introducing Microservices , C4. First Microservice, C5. Microservice Messaging)
