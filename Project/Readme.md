@@ -1,7 +1,8 @@
 
 # Project
 
-- Submit:  PPTx, Project Code (zip file), Guide / Manual (tools, install, libraries, command, build, config, setup, run) 
+- Submit:  PPTx, Project Code (zip file), Guide / Manual (tools, install, libraries, command, build, config, setup, run)
+- Deadline:  Week 11
 
 ## Functions
 - Login
