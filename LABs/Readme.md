@@ -6,12 +6,12 @@
    - https://chousensha.github.io/blog/2014/08/08/pentest-lab-damn-vulnerable-web-application/
    - https://ethicalhacs.com/dvwa-file-upload/
 
-2. **OWASP Juice Shop**
-  - https://github.com/juice-shop/juice-shop
-  - https://owasp.org/www-project-juice-shop/
+2. **OWASP Juice Shop**  
+   - https://github.com/juice-shop/juice-shop  
+   - https://owasp.org/www-project-juice-shop/  
 
 3. **NodeGoat**
-  - https://github.com/OWASP/NodeGoat
+   - https://github.com/OWASP/NodeGoat
 
 ## REFs
 - https://www.ptsecurity.com/ww-en/analytics/knowledge-base/securing-web-applications-top-owasp-threats-and-what-to-do-about-them/
