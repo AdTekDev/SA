@@ -14,11 +14,11 @@
 ### Architect/Styles
 - 3-Tiers : MVC / MVVM
 
-### Patterns (5+)
+### Patterns (5+ / project, 1+ / DP group)
 - CP: Singleton, Factory, Builder
 - SP: Facade, Composite, Bridge
 - BP: State, Iterator, Command
 
 ### Components
 - Web
-- microServices (3+ APIs)
+- microServices (3+ APIs) : sso, search, statistical report, ...
