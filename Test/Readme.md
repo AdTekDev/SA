@@ -12,9 +12,9 @@
 
 2. Basic Pages:  
 
-Create and handle two simple pages:  
-- Login Page
-- Chat Page  
+- Create and handle two simple pages:  
+  - Login Page
+  - Chat Page  
 
 **Data Storage:**
 
