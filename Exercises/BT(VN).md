@@ -11,7 +11,9 @@ Tìm hiểu và cho biết vài hàm căn bản trong các thư viện sau hỗ 
 - Task Parallel Library (TPL) C#
 - CUDA
 
-
+Tham khảo:
+- https://hpc.llnl.gov/documentation/tutorials
+- https://github.com/taskflow/awesome-parallel-computing 
 
 
 
