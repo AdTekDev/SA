@@ -9,4 +9,9 @@ Tìm hiểu và cho biết vài hàm căn bản trong các thư viện sau hỗ 
 - HPX
 - PPL - Parallel Patterns Library
 - Task Parallel Library (TPL) C#
+- CUDA
+
+
+
+
 
