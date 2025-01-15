@@ -16,7 +16,7 @@
 4 Identifying and scoping microservices
 ```
 
-**CS2.0**  
+**CS2.02**  
 ```
 1 Microservices at a glance
 2 A basic shopping cart microservice
@@ -24,7 +24,7 @@
 5 Microservice collaboration
 ```
 
-**CS2.0**  
+**CS2.03**  
 ```
 1 Microservices at a glance
 2 A basic shopping cart microservice
@@ -32,7 +32,7 @@
 6 Data ownership and data storage
 ```
 
-**CS2.0**  
+**CS2.04**  
 ```
 1 Microservices at a glance
 2 A basic shopping cart microservice
@@ -40,7 +40,7 @@
 7 Designing for robustness
 ```
 
-**CS2.0**  
+**CS2.05**  
 ```
 1 Microservices at a glance
 2 A basic shopping cart microservice
@@ -48,7 +48,7 @@
 8 Writing tests for microservices
 ```
 
-**CS2.0**  
+**CS2.06**  
 ```
 1 Microservices at a glance
 2 A basic shopping cart microservice
