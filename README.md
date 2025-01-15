@@ -16,4 +16,4 @@
 - https://refactoring.guru/design-patterns/
   
 ## Communication
-- Telegram 2024.07 - https://t.me/+ny5c9EfQKD5iNDE1 
+- Telegram
