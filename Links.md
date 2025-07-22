@@ -1,3 +1,3 @@
 
-## 2025.01
-- https://t.me/+jmB-j2RrBbszMDg1  
+## 2025.07
+- https://t.me/+Puj_-cLeSUBjYWZl  
