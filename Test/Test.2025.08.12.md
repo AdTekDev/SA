@@ -1,0 +1,39 @@
+# SA TEST  12/08/2025
+
+## **Objective:**
+
+Develop a web server using C# that utilizes Socket - library (System.Net.Sockets).  
+
+
+## **Requirements:**
+
+1. API/Page Requirements: (5 points)  
+
+- GET [/]: Displays detailed student information (id, fullname, PC's number) and provides a link to login.
+- GET [/login]: Shows the login page.
+- POST [/login]: Logs in with username and password. On success, redirects to /chat. On failure, displays a login failed message.
+- GET [/chat]: Displays online and offline chat rooms. A chat room is online if it has had activity within the last 3 minutes. If offline, its history is cleared.
+- POST [/chat/:id]: Sends a message to the chat room with the given id. After sending, changes the room status to online and redirects to GET /chat/:id
+- GET [/chat/:id]: Retrieves all messages sent to the chat room in chronological order (time, username, message).
+
+User account information is stored in a JSON file with the following format:  [ { "username": "nntu", "password": "56789" } , { "username": "AdTekDev", "password": "56789" }  ]
+
+
+2. Apply 1-2 of the following design patterns: (3 points)   
+
+- Singleton: Apply to the class reading JSON content
+- Builder: Create & Render Chat (themes) to WebRouter
+
+3. Time Requirement: (1 point)
+- Students must submit their work before 10:20am, and grading will be completed in class.  
+
+4. Other Requirements: (1point)
+- Implement cookie storage, include a token, and ensure the website has an attractive design.
+
+## **Submission Requirements:**
+Link:  https://mlearning.hoasen.edu.vn/mod/assign/view.php?id=1175642   
+
+**Submit 3 parts:**
+1. 3-5 screenshots demonstrating the web interface execution.
+2. 3-5 Image(s) of code implementing the chosen design pattern(s).
+3. zip file: containing the C# server and an HTML folder.
