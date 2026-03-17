@@ -23,4 +23,9 @@
 ## Python
 - Py01. Python FastAPI Microservices - https://www.geeksforgeeks.org/python/microservice-in-python-using-fastapi/
 - Py02. Python PyMS Microservices - https://python-microservices.github.io/home/
-- Py03. Python ... - https://medium.com/@bittusinghtech/building-a-simple-microservices-architecture-with-python-a-step-by-step-guide-c41da2cd4631 
+- Py03. Python ... - https://medium.com/@bittusinghtech/building-a-simple-microservices-architecture-with-python-a-step-by-step-guide-c41da2cd4631
+
+## Nodejs
+- No01. NestJS microservices (brokers, gRPC, Load balancing, Fault tolerance, ...)
+- No02. Fastify (gRPC, Service discovery, Load balancing, Fault tolerance)
+- No03. Moleculer (gRPC, Service discovery, Load balancing, Fault tolerance)
