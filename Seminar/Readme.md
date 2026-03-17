@@ -20,3 +20,6 @@
 - GO02. Synchronous (Chapter 1: Introduction to Microservices, Chapter 2: Scaffolding a Go Microservice, Chapter 5: Synchronous Communication)
 - GO03. Asynchronous (Chapter 1: Introduction to Microservices, Chapter 2: Scaffolding a Go Microservice, Chapter 6: Asynchronous Communication)
   
+## Python
+- Py01. Python FastAPI Microservices - https://www.geeksforgeeks.org/python/microservice-in-python-using-fastapi/
+- Py02. Python PyMS Microservices - https://python-microservices.github.io/home/
