@@ -2,7 +2,7 @@
 # Topics
 
 - Books: https://drive.google.com/drive/folders/1-K5Tf2YWbrms2kuPxbvRL4onJItFGBwn
-- Submit:  PPTx, Code (zip file), Guide / Manual (install, libraries, command)
+- Submit:  PPTx, Code (zip file), Guide / Manual (install, libraries, command), Dockerfile (packages the service together with all required dependencies so that the service can run independently inside a container)
 - Deadline: week 8
   
 ## C#
@@ -23,3 +23,4 @@
 ## Python
 - Py01. Python FastAPI Microservices - https://www.geeksforgeeks.org/python/microservice-in-python-using-fastapi/
 - Py02. Python PyMS Microservices - https://python-microservices.github.io/home/
+- Py03. Python ... - https://medium.com/@bittusinghtech/building-a-simple-microservices-architecture-with-python-a-step-by-step-guide-c41da2cd4631 
