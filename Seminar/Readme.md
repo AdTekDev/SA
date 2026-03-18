@@ -4,7 +4,41 @@
 - Books: https://drive.google.com/drive/folders/1-K5Tf2YWbrms2kuPxbvRL4onJItFGBwn
 - Submit:  PPTx, Code (zip file), Guide / Manual (install, libraries, command), Dockerfile (packages the service together with all required dependencies so that the service can run independently inside a container)
 - Deadline: week 8
-  
+
+## Technical Requirements
+
+### Microservices
+
+* Services must be independently deployable
+* Each service should have its own data (or mock database)
+
+### gRPC
+
+* Define at least one `.proto` file
+* Implement:
+
+  * At least one **Unary RPC**
+  * At least one **Streaming RPC** (any type)
+
+### Docker
+
+* Each service must have its own **Dockerfile**
+* Use **docker-compose** to run the entire system
+* Services must communicate through Docker network
+
+---
+
+### Optional (Bonus)
+
+* API Gateway
+* Logging & Monitoring
+* Authentication
+* Message Queue integration
+
+---
+
+---
+
 ## C#
 - CS01. Messaging (C1. Introducing Microservices , C4. First Microservice, C5. Microservice Messaging)
 - CS02. Decentralizing Data (C1. Introducing Microservices , C4. First Microservice, C6. Decentralizing Data)
