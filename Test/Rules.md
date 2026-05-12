@@ -1,6 +1,5 @@
 # Rules
 
-You can announce the submission requirements to students as follows:
 
 ---
 
