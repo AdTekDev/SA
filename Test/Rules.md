@@ -11,7 +11,7 @@ Please carefully follow the requirements below when submitting your TEST:
    Students must be physically present in the assigned laboratory/classroom during the submission and evaluation session. Absence without permission may result in no evaluation.
 
 2. **Submission on the System**
-   The assignment must be submitted correctly on the system with all required components:
+   The TEST must be submitted correctly on the system with all required components:
 
    * Part 1 → Folder "Results-screenshots"
    * Part 2 → Folder "Code-DesignPatterns"
@@ -31,7 +31,7 @@ Please carefully follow the requirements below when submitting your TEST:
    Marks will be awarded based on the parts that the student can clearly explain and demonstrate. Partial understanding will receive partial credit.
 
 6. **Academic Integrity**
-   Assignments that are identical or highly similar to another student’s work, or projects generated entirely by AI without understanding or modification, will be considered a serious academic violation. Such cases may receive zero marks or further disciplinary action.
+   TEST-CODE that are identical or highly similar to another student’s work, or projects generated entirely by AI without understanding or modification, will be considered a serious academic violation. Such cases may receive zero marks or further disciplinary action.
 
 7. **Additional Notes**
 
