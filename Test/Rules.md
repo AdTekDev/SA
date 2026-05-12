@@ -3,7 +3,7 @@
 
 ---
 
-## Assignment Submission Requirements
+## Submission Requirements
 
 Please carefully follow the requirements below when submitting your TEST:
 
